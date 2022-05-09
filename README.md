@@ -9,7 +9,7 @@ vless 相比 vmess 性能更加优秀，占用资源更少，运行更加稳定�
 
 经测试本镜像占用内存资源较低，运行稳定。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wsazdf/vless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/tgyty5r6/jius)
 
 ## 注意
 
@@ -27,7 +27,7 @@ vless 相比 vmess 性能更加优秀，占用资源更少，运行更加稳定�
 
 ### UUID
 
-`UUID` 默认为 `3a53a3e5-da83-48d2-aee9-d88a498eb3dd` 可自行设置。
+`UUID` 默认为 `ce9a8d5e-552f-4003-bff5-22b7f49d5a43` 可自行设置。
 
 ## 流量中转
 
