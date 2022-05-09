@@ -7,10 +7,10 @@
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "3a53a3e5-da83-48d2-aee9-d88a498eb3dd"
+      "value": "ce9a8d5e-552f-4003-bff5-22b7f49d5a43"
     }
   },
-  "website": "https://github.com/GeekNAUer/",
-  "repository": "https://github.com/GeekNAUer/vlessheroku",
+  "website": "https://github.com/tgyty5r6/jius/",
+  "repository": "https://github.com/tgyty5r6/jius/vlessheroku",
   "stack": "container"
 }
